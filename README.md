@@ -4,6 +4,8 @@
 - 版本： 12.3.1 Monterey
 - occ 7.5
 
+![image](https://user-images.githubusercontent.com/70327097/166139796-4bd1302c-1406-4d20-ba35-991050b7ff2e.png)
+
 
 ## 配置
 
